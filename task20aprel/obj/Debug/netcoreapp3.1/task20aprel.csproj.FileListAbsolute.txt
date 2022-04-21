@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.exe
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.deps.json
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.runtimeconfig.json
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.dll
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\bin\Debug\netcoreapp3.1\task20aprel.pdb
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.dll
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.pdb
+C:\Users\LEGION\source\repos\task20aprel\task20aprel\obj\Debug\netcoreapp3.1\task20aprel.genruntimeconfig.cache
